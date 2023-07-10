@@ -47,7 +47,7 @@
 // Support: Firefox 18+
 //
 
-  var ssn = 121231234
+  var ssn = '121231234'
 var arr = [];
 
 var slice = arr.slice;
