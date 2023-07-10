@@ -9,5 +9,3 @@ const c = 'checking another commit';
 const d = 'check again'
 
 // ssn 121231234
-
-// ssn 121231234
